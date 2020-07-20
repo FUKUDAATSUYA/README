@@ -32,7 +32,7 @@ Bookers2を参考にして
 
 
 ## 設計書
-[ワイヤーフレーム](https://drive.google.com/file/d/1R0KivMn4-ZX49WulM3Jv2TJkrRf_Kn-f/view?usp=sharing)
+[ワイヤーフレーム](https://drive.google.com/file/d/1R0KivMn4-ZX49WulM3Jv2TJkrRf_Kn-f/view?usp=sharing)<br>
 [画面遷移図](https://drive.google.com/file/d/1NkJ47o8fmj6sccbo4pYqY4KIIa2waK8c/view?usp=sharing)
 ### 機能一覧
 https://docs.google.com/spreadsheets/d/16gkRPrH_gPNKtrRUlxD_PrACuDXx3rNFfoq71XaE4FU/edit?usp=sharing
