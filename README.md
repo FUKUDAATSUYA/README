@@ -36,7 +36,8 @@ Bookers2を参考にして
 [画面遷移図](https://drive.google.com/file/d/1NkJ47o8fmj6sccbo4pYqY4KIIa2waK8c/view?usp=sharing)<br>
 [WBS](https://docs.google.com/spreadsheets/d/1c8vaYeSFNbOLDYbXoCBunN8XyBe3DEHcptNCvaQvK7I/edit?usp=sharing)<br>
 [ER図](https://drive.google.com/file/d/1S3QBf39W7Yr1_cvqCsWICZI6KPbHLkMj/view?usp=sharing)<br>
-[テーブル提議書](https://docs.google.com/spreadsheets/d/1r0Y7EwgGLed6usHIvYtf55cTDwXJXMTtX5tgPlRATPg/edit?usp=sharing)
+[テーブル提議書](https://docs.google.com/spreadsheets/d/1r0Y7EwgGLed6usHIvYtf55cTDwXJXMTtX5tgPlRATPg/edit?usp=sharing)<br>
+[アプリケーション詳細設計](https://docs.google.com/spreadsheets/d/1o7XyIgdfTYbEScPmYdcYKqeVA-ueaaemEA--RODvg5o/edit#gid=1637254279)<br>
 ### 機能一覧
 https://docs.google.com/spreadsheets/d/16gkRPrH_gPNKtrRUlxD_PrACuDXx3rNFfoq71XaE4FU/edit?usp=sharing
 
